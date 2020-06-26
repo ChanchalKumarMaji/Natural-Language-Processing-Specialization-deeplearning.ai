@@ -12,13 +12,13 @@
     + [Naive Machine Translation and LSH](https://github.com/ChanchalKumarMaji/Natural-Language-Processing-Specialization-deeplearning.ai/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1_W4_Assignment.ipynb)
 + **[Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)**
   + Week 1
-    + []()
+    + [Auto-Correct](https://github.com/ChanchalKumarMaji/Natural-Language-Processing-Specialization-deeplearning.ai/blob/master/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2_W1_Assignment.ipynb)
   + Week 2
-    + []()
+    + [Parts-of-Speech Tagging (POS)](https://github.com/ChanchalKumarMaji/Natural-Language-Processing-Specialization-deeplearning.ai/blob/master/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2_W2_Assignment.ipynb)
   + Week 3
-    + []()
+    + [Auto-Complete](https://github.com/ChanchalKumarMaji/Natural-Language-Processing-Specialization-deeplearning.ai/blob/master/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2_W3_Assignment.ipynb)
   + Week 4
-    + []()
+    + [Word Embeddings](https://github.com/ChanchalKumarMaji/Natural-Language-Processing-Specialization-deeplearning.ai/blob/master/Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2_W4_Assignment.ipynb)
 + **[Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)**
   + Week 1
     + []()
