@@ -37,4 +37,4 @@ These course materials belong entirely to `deeplearning.ai`. The solutions are o
 <kbd><img src="" /></kbd>
 
 
-<kbd><img src="" /></kbd>
+<kbd><img src="https://github.com/ChanchalKumarMaji/Natural-Language-Processing-Specialization-deeplearning.ai/blob/master/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Certificate/Certificate.jpg" /></kbd>
